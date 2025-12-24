@@ -78,15 +78,24 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
   ### Gender Performance
 
-* Women’s products generate $598M(68% of total revenue) compared to men’s $286M due to high product inventory.
+* **Women’s products generate $598M(68% of total revenue)** compared to men’s $286M due to high product inventory.
 
-* Average revenue per SKU is higher for women ($45K vs $41K for men), indicating stronger per-product performance.
+* **Average revenue per SKU is higher for women ($45K vs $41K for men)**, indicating stronger per-product performance.
 
-* Revenue growth is concentrated in women’s assortment with over 13000 SKUs, driven by both scale and efficiency.
+* Revenue growth is concentrated in women’s assortment with over **13000 SKUs**, driven by both scale and efficiency.
 
 <img src="https://github.com/user-attachments/assets/410f4783-7d01-4ed1-abc5-f8ed1148456f" width="645" height="367" />
 
+### Recommendations:
+based on the uncovered insights the following recommendations have been provided:
 
+⦁	With Jackets/Outerwear accounting for 41% of Inventory and generating 40% of total revenue, diversifying the product portfolio is crucial. **Expanding the shirt category with new product lines, particularly for the summer season could boost sales!**
+
+⦁	Align more marketing and promotions with seasonal peaks. **emphasize Autumn/Winter collections to capture peak revenue periods while using selective, efficiency-focused promotions in Summer to maintain strong per-product revenue**.
+
+⦁	**Look to capitalize on women’s products**, which make up 68% of revenue and have a higher avg revenue per SKU ($45K vs $41K for men), by expanding top-selling styles and targeting promotions effectively.
+
+⦁	Monitor SKU-to-revenue ratio over time. **Track avg revenue per product and phase out underperforming products** to maintain inventory efficiency and prevent dilution of revenue per product as we gather more time metrics to further improve.
   
 
 
