@@ -50,17 +50,16 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
 <img width="662" height="464" alt="image" src="https://github.com/user-attachments/assets/a95457e4-b7a5-4ae0-9d6c-efab33b938c3" />
 
+### Product Type Performance
+
+⦁	Jackets/Outerwear dominate in inventory and revenue, accounting for 41% of total SKUs and 40% of total revenue($358M), indicating revenue is largely driven by assortment size rather than higher per-product performance.
+
+⦁	Sweaters and T-shirts together earn $373M(42% of total revenue) with fewer SKUs, and their average revenue per product is higher($44K), compared to top performing Jacket/Outerwear category. indicating stronger per-item efficiency.
+
+⦁	avg price are all clustered together at about $42 per product across all categories. Revenue differences are driven mostly by product mix and SKU allocation, not pricing strategy, leaving room to rebalance assortment toward more efficient categories.
 
 
 
-
-
-
-
-  
-  
-
-### Product Type Performance 
 
 
   
