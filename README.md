@@ -7,15 +7,15 @@ The Company has significant amounts of data on its product inventory(over 20000 
 
 Insights and recommendations are provided on the following key areas:
 
-⦁	Sales Trends Analysis: Evaluation of sales patterns across seasons and product types, focusing on Revenue, SKU count, and Average Revenue per Product.
+⦁	**Sales Trends Analysis:** Evaluation of sales patterns across seasons and product types, focusing on Revenue, SKU count, and Average Revenue per Product.
 
-⦁	Product Category Performance: An analysis of ZARA's product categories, understanding their impact on sales and revenue.
+⦁	**Product Category Performance:** An analysis of ZARA's product categories, understanding their impact on sales and revenue.
 
-⦁	Season comparisons: An evaluations of sales across seasons
+⦁	**Season comparisons:** An evaluations of sales across seasons
 
-⦁	Promotions Effectiveness: Assessment of how promotions impact sales volume and revenue across different product types.
+⦁	**Promotions Effectiveness:** Assessment of how promotions impact sales volume and revenue across different product types.
 
-⦁	Gender Performance: Analysis of revenue and average revenue per SKU by gender
+⦁	**Gender Performance:** Analysis of revenue and average revenue per SKU by gender
 
 ## Dataset Overview
 Zara's database that was given consist of one table - business_sales_eda with a row count of 20253 products.
