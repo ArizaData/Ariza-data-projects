@@ -72,6 +72,9 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 
 * Winter leads in sweater sales of $88.5M in revenue across 1,816 SKUs. Also has **top average revenue per product of $48.7K**, showing high productivity and strong seasonal demand.
 
+  <img width="610" height="373" alt="image" src="https://github.com/user-attachments/assets/a6b74282-4cb5-4739-b60a-5cbdae467576" />
+
+
 
   ### Gender Performance
 
