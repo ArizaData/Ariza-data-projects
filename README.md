@@ -35,7 +35,6 @@ Below is a overview snapshot of a interactive dashboard I made in excel with mor
 <img width="2418" height="972" alt="Screenshot 2025-12-25 123209" src="https://github.com/user-attachments/assets/b7d793a4-c6bb-468e-bf58-d03e198e6f8e" />
 
 
-
 ### Sales Trends
 
 * **Total sales across all products reached $885M**, driven primarily by a high SKU count with over 20000 products.
