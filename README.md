@@ -32,7 +32,8 @@ We generated $885M in total sales, with Jackets/Outerwear contributing about 40%
 
 Below is a overview snapshot of a interactive dashboard I made in excel with more examples included below. You can download excel dashboard here
 
-<img width="2413" height="965" alt="Screenshot 2025-12-25 122737" src="https://github.com/user-attachments/assets/944cc331-bc4e-44e2-ad65-5fb290b175ec" />
+<img width="2413" height="965" alt="Screenshot 2025-12-25 122955" src="https://github.com/user-attachments/assets/690e13a9-c76c-4984-90e9-71868a026c32" />
+
 
 
 ### Sales Trends
