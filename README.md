@@ -94,4 +94,14 @@ based on the uncovered insights the following recommendations have been provided
 ⦁	**Look to capitalize on women’s products**, which make up 68% of revenue and have a higher avg revenue per SKU ($45K vs $41K for men), by expanding top-selling styles and targeting promotions effectively.
 
 ⦁	Monitor SKU-to-revenue ratio over time. **Track avg revenue per product and phase out underperforming products** to maintain inventory efficiency and prevent dilution of revenue per product as we gather more time metrics to further improve.
+
+### Caveats & Assumptions
+
+* No time-based data, so analysis reflects a snapshot, not trends over a long period of time.
+
+* Data has limited promotion context. Promotions are binary (Yes/No) with no detail on discount depth, duration, or campaign type, reducing the ability to optimize promotional strategy.
+
+* No customer-level data was included. The data lacked customer IDs, repeat purchase behavior, and demographics, preventing insights into retention, loyalty, lifetime value, or customer segmentation.
+
+* Some products had incorrect description/category labels, and many URLs were broken or unusable, so analysis assumes the product name accurately represents the item and matches the product ID.
   
