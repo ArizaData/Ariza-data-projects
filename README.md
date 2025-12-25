@@ -1,4 +1,4 @@
-# Product Sales Exploratory Data Analysis ZARA
+# Exploratory Data Analysis ZARA Retail
 
 ## Project Background
 Zara, founded in 1974, is a global fashion retailer that designs, manufactures, and sells clothing and accessories worldwide through its stores, website, and mobile app.
