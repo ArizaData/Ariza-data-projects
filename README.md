@@ -32,6 +32,9 @@ We generated $885M in total sales, with Jackets/Outerwear contributing about 40%
 
 Below is a overview snapshot of a interactive dashboard I made in excel with more examples included below. You can download excel dashboard here
 
+<img width="2413" height="965" alt="Screenshot 2025-12-25 122737" src="https://github.com/user-attachments/assets/944cc331-bc4e-44e2-ad65-5fb290b175ec" />
+
+
 ### Sales Trends
 
 * **Total sales across all products reached $885M**, driven primarily by a high SKU count with over 20000 products.
