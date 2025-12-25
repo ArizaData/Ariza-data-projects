@@ -3,7 +3,7 @@
 ## Project Background
 Zara, founded in 1974, is a global fashion retailer that designs, manufactures, and sells clothing and accessories worldwide through its stores, website, and mobile app.
 
-The Company has significant amounts of data on its product inventory(over 20000 products), how they are categorized and their sales performance. This project thoroughly analyzes and explores this data in order to uncover critical insights and help improve Zara's success in the retail/fashion industry.
+The Company has significant amounts of data on its sales, product categorizations, and promotional efforts that have been underutilized. This project thoroughly analyzes and explores this data in order to uncover critical insights that will help improve Zara's success in the retail/fashion industry.
 
 Insights and recommendations are provided on the following key areas:
 
